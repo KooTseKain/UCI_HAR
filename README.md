@@ -2,6 +2,7 @@ UCI_HAR
 =======
 
 Getting and Cleaning Data Assignment
+
 Step 1
 - set working directory where the unzip files (test and training data sets are)
 - Merges the training and the test sets to create one data set. 
