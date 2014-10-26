@@ -17,4 +17,4 @@ Step4
 - Label the data set with descriptive activity names.
 
 Step 5 
-Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+- Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
